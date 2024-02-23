@@ -1,0 +1,708 @@
+{
+  "status": 1,
+  "desc": "SUCCESS",
+  "result": [
+    {
+      "game_Class": 3,
+      "game_Id": "DNight",
+      "game_image_src": null,
+      "server_Id": "1002270036",
+      "thirdParty_Id": "Royal",
+      "deskNo": "DNight",
+      "mappingId": "37"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "HNight",
+      "game_image_src": null,
+      "server_Id": "1002270037",
+      "thirdParty_Id": "Royal",
+      "deskNo": "HNight",
+      "mappingId": "38"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "Africa",
+      "game_image_src": null,
+      "server_Id": "1002270040",
+      "thirdParty_Id": "Royal",
+      "deskNo": "Africa",
+      "mappingId": "34"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "WStore",
+      "game_image_src": null,
+      "server_Id": "1002270041",
+      "thirdParty_Id": "Royal",
+      "deskNo": "WStore",
+      "mappingId": "35"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "MrDoggy",
+      "game_image_src": null,
+      "server_Id": "1002270042",
+      "thirdParty_Id": "Royal",
+      "deskNo": "MrDoggy",
+      "mappingId": "36"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "FuWaFaFa",
+      "game_image_src": null,
+      "server_Id": "1002270043",
+      "thirdParty_Id": "Royal",
+      "deskNo": "FuWaFaFa",
+      "mappingId": "40"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "TarZan",
+      "game_image_src": null,
+      "server_Id": "1002270044",
+      "thirdParty_Id": "Royal",
+      "deskNo": "TarZan",
+      "mappingId": "41"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "Jalapeno",
+      "game_image_src": null,
+      "server_Id": "1002270045",
+      "thirdParty_Id": "Royal",
+      "deskNo": "Jalapeno",
+      "mappingId": "42"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "PPunch",
+      "game_image_src": null,
+      "server_Id": "1002270046",
+      "thirdParty_Id": "Royal",
+      "deskNo": "PPunch",
+      "mappingId": "43"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "OEmperor",
+      "game_image_src": null,
+      "server_Id": "1002270047",
+      "thirdParty_Id": "Royal",
+      "deskNo": "OEmperor",
+      "mappingId": "3001"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "CNEmpress",
+      "game_image_src": null,
+      "server_Id": "1002270048",
+      "thirdParty_Id": "Royal",
+      "deskNo": "CNEmpress",
+      "mappingId": "39"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "DanceLion",
+      "game_image_src": null,
+      "server_Id": "1002270049",
+      "thirdParty_Id": "Royal",
+      "deskNo": "DanceLion",
+      "mappingId": "50"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "SevensHigh",
+      "game_image_src": null,
+      "server_Id": "1002270050",
+      "thirdParty_Id": "Royal",
+      "deskNo": "SevensHigh",
+      "mappingId": "44"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "Jelly27",
+      "game_image_src": null,
+      "server_Id": "1002270051",
+      "thirdParty_Id": "Royal",
+      "deskNo": "Jelly27",
+      "mappingId": "47"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "Kunoichi",
+      "game_image_src": null,
+      "server_Id": "1002270052",
+      "thirdParty_Id": "Royal",
+      "deskNo": "Kunoichi",
+      "mappingId": "45"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "RGNinja",
+      "game_image_src": null,
+      "server_Id": "1002270053",
+      "thirdParty_Id": "Royal",
+      "deskNo": "RGNinja",
+      "mappingId": "46"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "POSEIDON",
+      "game_image_src": null,
+      "server_Id": "1002270054",
+      "thirdParty_Id": "Royal",
+      "deskNo": "POSEIDON",
+      "mappingId": "49"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "NeonCircle",
+      "game_image_src": null,
+      "server_Id": "1002270055",
+      "thirdParty_Id": "Royal",
+      "deskNo": "NeonCircle",
+      "mappingId": "53"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "AngryBear",
+      "game_image_src": null,
+      "server_Id": "1002270056",
+      "thirdParty_Id": "Royal",
+      "deskNo": "AngryBear",
+      "mappingId": "48"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "GetHigh",
+      "game_image_src": null,
+      "server_Id": "1002270057",
+      "thirdParty_Id": "Royal",
+      "deskNo": "GetHigh",
+      "mappingId": "55"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "CowBoy",
+      "game_image_src": null,
+      "server_Id": "1002270058",
+      "thirdParty_Id": "Royal",
+      "deskNo": "CowBoy",
+      "mappingId": "56"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "MPanda",
+      "game_image_src": null,
+      "server_Id": "1002270059",
+      "thirdParty_Id": "Royal",
+      "deskNo": "MPanda",
+      "mappingId": "59"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "FWFishing",
+      "game_image_src": null,
+      "server_Id": "1002270060",
+      "thirdParty_Id": "Royal",
+      "deskNo": "FWFishing",
+      "mappingId": "3002"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00003",
+      "game_image_src": null,
+      "server_Id": "1002270061",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00003",
+      "mappingId": "2001"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00002",
+      "game_image_src": null,
+      "server_Id": "1002270062",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00002",
+      "mappingId": "90"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00001",
+      "game_image_src": null,
+      "server_Id": "1002270063",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00001",
+      "mappingId": "100"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00007",
+      "game_image_src": null,
+      "server_Id": "1002270064",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00007",
+      "mappingId": "76"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00006",
+      "game_image_src": null,
+      "server_Id": "1002270065",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00006",
+      "mappingId": "65"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00005",
+      "game_image_src": null,
+      "server_Id": "1002270066",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00005",
+      "mappingId": "58"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00004",
+      "game_image_src": null,
+      "server_Id": "1002270067",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00004",
+      "mappingId": "61"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00008",
+      "game_image_src": null,
+      "server_Id": "1002270068",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00008",
+      "mappingId": "73"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00009",
+      "game_image_src": null,
+      "server_Id": "1002270069",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00009",
+      "mappingId": "52"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00010",
+      "game_image_src": null,
+      "server_Id": "1002270070",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00010",
+      "mappingId": "51"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00011",
+      "game_image_src": null,
+      "server_Id": "1002270071",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00011",
+      "mappingId": "66"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00012",
+      "game_image_src": null,
+      "server_Id": "1002270072",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00012",
+      "mappingId": "60"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00013",
+      "game_image_src": null,
+      "server_Id": "1002270073",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00013",
+      "mappingId": "82"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00014",
+      "game_image_src": null,
+      "server_Id": "1002270074",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00014",
+      "mappingId": "81"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00015",
+      "game_image_src": null,
+      "server_Id": "1002270075",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00015",
+      "mappingId": "78"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00016",
+      "game_image_src": null,
+      "server_Id": "1002270076",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00016",
+      "mappingId": "70"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00017",
+      "game_image_src": null,
+      "server_Id": "1002270077",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00017",
+      "mappingId": "68"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00018",
+      "game_image_src": null,
+      "server_Id": "1002270078",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00018",
+      "mappingId": "112"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00019",
+      "game_image_src": null,
+      "server_Id": "1002270079",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00019",
+      "mappingId": "111"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00021",
+      "game_image_src": null,
+      "server_Id": "1002270080",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00021",
+      "mappingId": "72"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00020",
+      "game_image_src": null,
+      "server_Id": "1002270081",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00020",
+      "mappingId": "113"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00022",
+      "game_image_src": null,
+      "server_Id": "1002270082",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00022",
+      "mappingId": "117"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00023",
+      "game_image_src": null,
+      "server_Id": "1002270083",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00023",
+      "mappingId": "114"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00024",
+      "game_image_src": null,
+      "server_Id": "1002270084",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00024",
+      "mappingId": "119"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "ROYAL00025",
+      "game_image_src": null,
+      "server_Id": "1002270085",
+      "thirdParty_Id": "Royal",
+      "deskNo": "ROYAL00025",
+      "mappingId": "121"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "RoyalHusa",
+      "game_image_src": null,
+      "server_Id": "1002270029",
+      "thirdParty_Id": "Royal",
+      "deskNo": "RoyalHusa",
+      "mappingId": "29"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "TikiParty",
+      "game_image_src": null,
+      "server_Id": "1002270030",
+      "thirdParty_Id": "Royal",
+      "deskNo": "TikiParty",
+      "mappingId": "31"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "goblin",
+      "game_image_src": null,
+      "server_Id": "1002270031",
+      "thirdParty_Id": "Royal",
+      "deskNo": "goblin",
+      "mappingId": "32"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "firespin",
+      "game_image_src": null,
+      "server_Id": "1002270032",
+      "thirdParty_Id": "Royal",
+      "deskNo": "firespin",
+      "mappingId": "15"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "dragon",
+      "game_image_src": null,
+      "server_Id": "1002270033",
+      "thirdParty_Id": "Royal",
+      "deskNo": "dragon",
+      "mappingId": "30"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "luckybar",
+      "game_image_src": null,
+      "server_Id": "1002270034",
+      "thirdParty_Id": "Royal",
+      "deskNo": "luckybar",
+      "mappingId": "33"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "RoyalRoom",
+      "game_image_src": null,
+      "server_Id": "1002270000",
+      "thirdParty_Id": "Royal",
+      "deskNo": "RoyalRoom",
+      "mappingId": null
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "MagicGem",
+      "game_image_src": null,
+      "server_Id": "1002270001",
+      "thirdParty_Id": "Royal",
+      "deskNo": "MagicGem",
+      "mappingId": "2"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "FortuneTai",
+      "game_image_src": null,
+      "server_Id": "1002270002",
+      "thirdParty_Id": "Royal",
+      "deskNo": "FortuneTai",
+      "mappingId": "1"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "Royal777",
+      "game_image_src": null,
+      "server_Id": "1002270003",
+      "thirdParty_Id": "Royal",
+      "deskNo": "Royal777",
+      "mappingId": "3"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "LoveCity",
+      "game_image_src": null,
+      "server_Id": "1002270004",
+      "thirdParty_Id": "Royal",
+      "deskNo": "LoveCity",
+      "mappingId": "4"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "GChicken",
+      "game_image_src": null,
+      "server_Id": "1002270005",
+      "thirdParty_Id": "Royal",
+      "deskNo": "GChicken",
+      "mappingId": "5"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "Pharoh",
+      "game_image_src": null,
+      "server_Id": "1002270006",
+      "thirdParty_Id": "Royal",
+      "deskNo": "Pharoh",
+      "mappingId": "6"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "Alibaba",
+      "game_image_src": null,
+      "server_Id": "1002270007",
+      "thirdParty_Id": "Royal",
+      "deskNo": "Alibaba",
+      "mappingId": "7"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "LuckyFruit",
+      "game_image_src": null,
+      "server_Id": "1002270008",
+      "thirdParty_Id": "Royal",
+      "deskNo": "LuckyFruit",
+      "mappingId": "8"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "RJungle",
+      "game_image_src": null,
+      "server_Id": "1002270010",
+      "thirdParty_Id": "Royal",
+      "deskNo": "RJungle",
+      "mappingId": "10"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "CHook",
+      "game_image_src": null,
+      "server_Id": "1002270011",
+      "thirdParty_Id": "Royal",
+      "deskNo": "CHook",
+      "mappingId": "11"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "HUCA",
+      "game_image_src": null,
+      "server_Id": "1002270012",
+      "thirdParty_Id": "Royal",
+      "deskNo": "HUCA",
+      "mappingId": "12"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "SweetCandy",
+      "game_image_src": null,
+      "server_Id": "1002270014",
+      "thirdParty_Id": "Royal",
+      "deskNo": "SweetCandy",
+      "mappingId": "14"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "POPEYE",
+      "game_image_src": null,
+      "server_Id": "1002270016",
+      "thirdParty_Id": "Royal",
+      "deskNo": "POPEYE",
+      "mappingId": "16"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "CDoctor",
+      "game_image_src": null,
+      "server_Id": "1002270017",
+      "thirdParty_Id": "Royal",
+      "deskNo": "CDoctor",
+      "mappingId": "17"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "Nonstop",
+      "game_image_src": null,
+      "server_Id": "1002270018",
+      "thirdParty_Id": "Royal",
+      "deskNo": "Nonstop",
+      "mappingId": "18"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "5Dragons",
+      "game_image_src": null,
+      "server_Id": "1002270019",
+      "thirdParty_Id": "Royal",
+      "deskNo": "5Dragons",
+      "mappingId": "19"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "72Changes",
+      "game_image_src": null,
+      "server_Id": "1002270021",
+      "thirdParty_Id": "Royal",
+      "deskNo": "72Changes",
+      "mappingId": "21"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "Mermaid",
+      "game_image_src": null,
+      "server_Id": "1002270023",
+      "thirdParty_Id": "Royal",
+      "deskNo": "Mermaid",
+      "mappingId": "23"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "Buffalo",
+      "game_image_src": null,
+      "server_Id": "1002270024",
+      "thirdParty_Id": "Royal",
+      "deskNo": "Buffalo",
+      "mappingId": "24"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "WildPanda",
+      "game_image_src": null,
+      "server_Id": "1002270025",
+      "thirdParty_Id": "Royal",
+      "deskNo": "WildPanda",
+      "mappingId": "25"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "LuckyThai",
+      "game_image_src": null,
+      "server_Id": "1002270026",
+      "thirdParty_Id": "Royal",
+      "deskNo": "LuckyThai",
+      "mappingId": "26"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "GodWealth",
+      "game_image_src": null,
+      "server_Id": "1002270027",
+      "thirdParty_Id": "Royal",
+      "deskNo": "GodWealth",
+      "mappingId": "27"
+    },
+    {
+      "game_Class": 3,
+      "game_Id": "LDragon",
+      "game_image_src": null,
+      "server_Id": "1002270028",
+      "thirdParty_Id": "Royal",
+      "deskNo": "LDragon",
+      "mappingId": "28"
+    }
+  ]
+}

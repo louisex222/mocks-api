@@ -1,0 +1,81 @@
+{
+  "status": 1,
+  "desc": "SUCCESS",
+  "result": [
+    {
+      "thirdParty_Id": "Ameba",
+      "display_Name": "AMEBA",
+      "display_Order": 304
+    },
+    {
+      "thirdParty_Id": "DS",
+      "display_Name": "DS",
+      "display_Order": 303
+    },
+    {
+      "thirdParty_Id": "FC",
+      "display_Name": "FC",
+      "display_Order": 313
+    },
+    {
+      "thirdParty_Id": "Golden",
+      "display_Name": "Golden",
+      "display_Order": 315
+    },
+    {
+      "thirdParty_Id": "GR",
+      "display_Name": "GR",
+      "display_Order": 309
+    },
+    {
+      "thirdParty_Id": "JDB",
+      "display_Name": "JDB",
+      "display_Order": 302
+    },
+    {
+      "thirdParty_Id": "JILI",
+      "display_Name": "JILI",
+      "display_Order": 307
+    },
+    {
+      "thirdParty_Id": "JOKER",
+      "display_Name": "JOKER",
+      "display_Order": 308
+    },
+    {
+      "thirdParty_Id": "META",
+      "display_Name": "META",
+      "display_Order": 310
+    },
+    {
+      "thirdParty_Id": "MG",
+      "display_Name": "MG",
+      "display_Order": 314
+    },
+    {
+      "thirdParty_Id": "NEXTSPIN",
+      "display_Name": "NEXTSPIN",
+      "display_Order": 311
+    },
+    {
+      "thirdParty_Id": "PG",
+      "display_Name": "PG",
+      "display_Order": 305
+    },
+    {
+      "thirdParty_Id": "PP",
+      "display_Name": "PP",
+      "display_Order": 312
+    },
+    {
+      "thirdParty_Id": "Royal",
+      "display_Name": "RSG",
+      "display_Order": 301
+    },
+    {
+      "thirdParty_Id": "TP",
+      "display_Name": "TPSLOT",
+      "display_Order": 306
+    }
+  ]
+}

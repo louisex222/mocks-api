@@ -1,0 +1,78 @@
+{
+    "status": 1,
+    "desc": "SUCCESS",
+    "result": [
+        {
+            "id": "114",
+            "clubId": 8,
+            "name": "聚寶財神",
+            "imagePath": "RSG",
+            "imageName": "114",
+            "active": true,
+            "localizationCode": "Game_RSG_114",
+            "sort": 2,
+            "serverId": "1002270083",
+            "mType": "0"
+        },
+        {
+            "id": "3001",
+            "clubId": 8,
+            "name": "八爪天下海霸王",
+            "imagePath": "RSG",
+            "imageName": "3001",
+            "active": true,
+            "localizationCode": "Game_RSG_3001",
+            "sort": 5,
+            "serverId": "1002270047",
+            "mType": "0"
+        },
+        {
+            "id": "PTG0122",
+            "clubId": 37,
+            "name": "Dummy",
+            "imagePath": "MT",
+            "imageName": "PTG0122",
+            "active": true,
+            "localizationCode": "Game_MT_PTG0122",
+            "sort": 1,
+            "serverId": "2000000015",
+            "mType": "0"
+        },
+        {
+            "id": "8051",
+            "clubId": 9,
+            "name": "喜洋羊",
+            "imagePath": "JDB",
+            "imageName": "8051",
+            "active": true,
+            "localizationCode": "Game_JDB_8051",
+            "sort": 6,
+            "serverId": "1002300036",
+            "gType": "0"
+        },
+        {
+            "id": "21008",
+            "clubId": 33,
+            "name": "星際捕魚",
+            "imagePath": "FC",
+            "imageName": "starhunter",
+            "active": true,
+            "localizationCode": "Game_FC_21008",
+            "sort": 1,
+            "serverId": "2000000013",
+            "mType": "0"
+        },
+        {
+            "id": "620",
+            "clubId": 39,
+            "name": "德州撲克",
+            "imagePath": "MP",
+            "imageName": "620",
+            "active": true,
+            "localizationCode": "Game_MP_620",
+            "sort": 4,
+            "serverId": "2000000017",
+            "mType": "0"
+        }
+    ]
+}

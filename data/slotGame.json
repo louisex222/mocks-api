@@ -1,0 +1,20 @@
+[
+  {
+    "id": "StandAloneMines",
+    "clubId": 43,
+    "name": "深水炸彈",
+    "imagePath": "GEMINI",
+    "imageName": "StandAloneMines",
+    "active": true,
+    "localizationCode": "GEMINI_StandAloneMines",
+    "categoryIdList": [
+      1,
+      2,
+      4
+    ],
+    "sort": 1,
+    "status": 0,
+    "serverId": "2000000021",
+    "gType": null
+  }
+]

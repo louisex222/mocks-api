@@ -1,0 +1,11 @@
+[
+    {
+        "clubId":8,
+        "gameId": "3001",
+        "thirdPartyId": "mg",
+        "localizationCode":"Game_RSG_1",
+        "imageName":"3001",
+        "imagePath": "RSG",
+        "active": true
+    }
+]

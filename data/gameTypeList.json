@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "code": "Live",
+        "name": "真人",
+        "localizationCode": "Live",
+        "enabled": true,
+        "order": 1
+    },
+    {
+        "id": 2,
+        "code": "Slot",
+        "name": "電子",
+        "localizationCode": "Electronic",
+        "enabled": true,
+        "order": 2
+    },
+    {
+        "id": 3,
+        "code": "Fish",
+        "name": "魚機",
+        "localizationCode": "Game_Category_Fish",
+        "enabled": true,
+        "order": 3
+    },
+    {
+        "id": 4,
+        "code": "Lottery",
+        "name": "彩票",
+        "localizationCode": "Lottery",
+        "enabled": true,
+        "order": 4
+    },
+    {
+        "id": 5,
+        "code": "Sport",
+        "name": "體育",
+        "localizationCode": "Sport",
+        "enabled": true,
+        "order": 5
+    },
+    {
+        "id": 6,
+        "code": "Table",
+        "name": "棋牌",
+        "localizationCode": "Cards",
+        "enabled": true,
+        "order": 7
+    },
+    {
+        "id": 7,
+        "code": "Animal",
+        "name": "動競",
+        "localizationCode": "Animal",
+        "enabled": true,
+        "order": 8
+    },
+    {
+        "id": 8,
+        "code": "Esport",
+        "name": "電競",
+        "localizationCode": "Esport",
+        "enabled": true,
+        "order": 6
+    }
+]

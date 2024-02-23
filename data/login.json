@@ -1,0 +1,22 @@
+{
+  "status": 1,
+  "desc": "SUCCESS",
+  "result": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXNzd29yZCI6IkU5NTEwMDgxQUMzMEZGQTgzRjEwQjY4Q0RFMUNBQzA3IiwidXNlcm5hbWUiOiJjY2NjdDEwMDEiLCJjbHViX2lkIjoiMjEwMDAyMzE0NSIsImNsdWJfZW5hbWUiOiJDQ2NjdDEwMDEiLCJjbHViX2NuYW1lIjoiaiIsImZyYW5jaGlzZXJfaWQiOiJTNzAwMzAwMDA3MDAwMDEiLCJ6dWJpZSI6IkMiLCJodWlsdnR5cGUiOiJUSEIiLCJmb3J3YXJkR2FtZUN1cnJlbmN5IjoiVEhCIiwic2l0ZV9pZCI6IiIsInRpbWVzdGFtcCI6IjE2ODgxNDUyNzkiLCJpc3NvY2lhbGxvZ2luIjoiRmFsc2UiLCJleHAiOjE2ODg3MTk0NzksImlzcyI6ImFwcGFwaV9kZXZfand0IiwiYXVkIjoiYXBwYXBpX2FkdSJ9.anREuaYUjxBONJRC0GgpHeOdTbVH-lqcrX0_yM9bG9E",
+    "clubid": "2100023145",
+    "clubename": "CCcct1001",
+    "clubcname": "j",
+    "franchiserid": "S70030000700001",
+    "huilvtype": "THB",
+    "now_xinyong": 999987.45,
+    "isTest": 0,
+    "zuBie": "C",
+    "isSocialLogin": false,
+    "collet": "0",
+    "payment": "0",
+    "collet_isEnabled": false,
+    "payment_isEnabled": false,
+    "expiresAt": 1688719479,
+    "mustChangePasssword": 0
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "status": 1,
+  "desc": "SUCCESS",
+  "result": [
+    {
+      "today_Begin": "2023-06-30",
+      "today_End": "2023-07-01",
+      "mon_Begin": "2023-06-05",
+      "mon_End": "2023-06-29",
+      "preMon_Begin": "2023-05-01",
+      "preMon_End": "2023-06-04",
+      "venus_Transaction_Begin": "2023-05-30",
+      "venus_Transaction_End": "2023-06-30",
+      "week_Begin": "2023-06-26",
+      "week_End": "2023-06-29",
+      "preWeek_Begin": "2023-06-19",
+      "preWeek_End": "2023-06-25"
+    }
+  ]
+}
