@@ -8,7 +8,7 @@ const useLogin = (app,fs)=>{
             "ip": "127.0.0.1"
           }
     
-    app.post('/api/Member/MaesotLogin',(req,res)=>{
+    app.post('/api/Member/Login',(req,res)=>{
         req = param;
         fs.readFile(dataPath,'utf8',(err,data)=>{
             if(err){
