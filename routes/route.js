@@ -11,6 +11,8 @@ const useLogout = require('./logout')
 const useHotList = require('./hotList')
 const useGameTypeList = require('./gameTypeList')
 const useMobileSlotGame = require('./mobileSlotGame')
+const useChangePwd = require('./changePwd')
+const useDataVersion = require('./dataversion')
 
 const appRouter = (app, fs) => {
   app.get('/', (req, res) => {
@@ -29,6 +31,8 @@ const appRouter = (app, fs) => {
   useHotList(app, fs);
   useGameTypeList(app, fs);
   useMobileSlotGame(app, fs);
+  useChangePwd(app, fs);
+  useDataVersion(app, fs);
 };
 
 module.exports = appRouter;
